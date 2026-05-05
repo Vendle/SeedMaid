@@ -14,6 +14,8 @@
 |---------|------|------|
 | 永久授权 | ¥99 | 一次性购买，永久使用，支持 1 个设备 |
 
+> 💡 注：99元非固定售价，随着功能的增加，价格也会随时变化。
+
 ### 购买流程
 
 1. **扫描下方二维码支付**
@@ -30,7 +32,8 @@
 
 <!-- 请将收款码图片替换为实际图片，例如：docs/assets/wechat-pay.png -->
 <p align="center">
-  <img src="docs/assets/wechat-pay-placeholder.png" alt="微信支付" width="240">
+  <img src="https://raw.githubusercontent.com/Vendle/SeedMaid/main/docs/assets/wechat-pay-placeholder.png" alt="微信支
+  付" width="240">
   <br>
   <sub>微信扫码支付</sub>
 </p>
@@ -42,7 +45,8 @@
 
 <!-- 请将收款码图片替换为实际图片，例如：docs/assets/alipay.png -->
 <p align="center">
-  <img src="docs/assets/alipay-placeholder.png" alt="支付宝" width="240">
+  <img src="https://raw.githubusercontent.com/Vendle/SeedMaid/main/docs/assets/alipay-placeholder.png" alt="支付宝" wi
+  dth="240">
   <br>
   <sub>支付宝扫码支付</sub>
 </p>
