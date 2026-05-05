@@ -151,5 +151,5 @@ docker run -d \
 
 
 <p align="center">
-  <sub>🌱 SeedMaid — 媒体库终极管理者</sub>
+  <sub>🌱 SeedMaid — 媒体库管理</sub>
 </p>
