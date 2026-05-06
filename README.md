@@ -1,7 +1,7 @@
 # SeedMaid 🌱
 
 [![Docker Image](https://img.shields.io/badge/docker-vendle%2Fseedmaid-blue?logo=docker)](https://hub.docker.com/r/vendle/seedmaid)
-[![Version](https://img.shields.io/badge/version-2.7.0-blue)]()
+[![Version](https://img.shields.io/badge/version-2.0.0-blue)]()
 [![Platform](https://img.shields.io/badge/platform-linux%2Famd64%2Farm64-blue)]()
 
 ## 💎 购买授权
