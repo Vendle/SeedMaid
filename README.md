@@ -144,7 +144,7 @@ docker run -d \
 
 | 宿主机路径 | 容器路径 | 说明 |
 |------------|----------|------|
-| `./data/config` | `/app/data` | 配置文件、数据库、缓存|
+| `./config` | `/app/data` | 配置文件、数据库、缓存|
 | `./seeds` | `/app/seeds` | 种子下载目录 |
 | `/media` | `/downloads` | 下载器联动目录 |
 | `/var/run/docker.sock` | `/var/run/docker.sock` | Docker Socket（自更新用） |
