@@ -96,8 +96,8 @@ services:
       - SEEDMAID_PASSWORD=yourpassword
     volumes:
       - ./seeds:/app/seeds
-      - ./data/config:/app/data
-      - ./media:/downloads
+      - ./config:/app/data
+      - /media:/downloads
       - /var/run/docker.sock:/var/run/docker.sock:ro
 ```
 
@@ -115,7 +115,7 @@ docker run -d \
   -e SEEDMAID_USERNAME=admin \
   -e SEEDMAID_PASSWORD=yourpassword \
   -v $(pwd)/seeds:/app/seeds \
-  -v $(pwd)/data/config:/app/data \
+  -v $(pwd)/config:/app/data \
   -v /media:/downloads \
   -v /var/run/docker.sock:/var/run/docker.sock:ro \
   --restart unless-stopped \
