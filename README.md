@@ -93,7 +93,7 @@ services:
     environment:
       - TZ=Asia/Shanghai
       - SEEDMAID_USERNAME=admin
-      - SEEDMAID_PASSWORD=yourpassword
+      - SEEDMAID_PASSWORD=seedmaid
     volumes:
       - ./seeds:/app/seeds
       - ./config:/app/data
@@ -113,7 +113,7 @@ docker run -d \
   -p 666:666 \
   -e TZ=Asia/Shanghai \
   -e SEEDMAID_USERNAME=admin \
-  -e SEEDMAID_PASSWORD=yourpassword \
+  -e SEEDMAID_PASSWORD=seedmaid \
   -v $(pwd)/seeds:/app/seeds \
   -v $(pwd)/config:/app/data \
   -v /media:/downloads \
@@ -155,5 +155,5 @@ docker run -d \
 
 
 <p align="center">
-  <sub>🌱 SeedMaid — 媒体库管理</sub>
+  <sub>🌱 SeedMaid — 自动化媒体库管理</sub>
 </p>
