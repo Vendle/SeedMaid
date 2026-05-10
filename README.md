@@ -67,8 +67,9 @@
 如有任何问题，欢迎联系：
 
 - **Telegram**: [@Vendle_Liu](https://t.me/Vendle_Liu)
-- **Email**: vendle.liu@qq.com
 - **Telegram频道**：[@SeedMaid](https://t.me/SeedMaid)
+- **Email**: vendle.liu@qq.com
+    
 ---
 
 ## 💬 支持
