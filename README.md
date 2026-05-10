@@ -68,7 +68,7 @@
 
 - **Telegram**: [@Vendle_Liu](https://t.me/Vendle_Liu)
 - **Email**: vendle.liu@qq.com
-
+- **Telegram频道**：[@SeedMaid](https://t.me/SeedMaid)
 ---
 
 ## 💬 支持
